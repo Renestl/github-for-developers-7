@@ -5,3 +5,5 @@
      - Sushi
 - A hobby
      - reading
+- Favorite color
+     - Purple
