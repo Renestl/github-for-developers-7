@@ -7,3 +7,5 @@
      - reading
 - Favorite color
      - Purple
+- Favorite movie
+	- Armageddon
